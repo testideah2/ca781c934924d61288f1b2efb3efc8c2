@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.ap-arenda.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. АвтоПартнер Прокат</name>
+    <name>АвтоПартнер Прокат</name>
 
     <description>
         Прокат и аренда автомобиля
