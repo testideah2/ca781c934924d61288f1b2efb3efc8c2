@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.ap-arenda.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
     <name>АвтоПартнер Прокат</name>
 
@@ -40,12 +40,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/143f1d987dc9f144db1797a2cb62de1e.png" density="ldpi" />
-        <icon src="res/android/icon/f10bd483e244434944cfc1ac3743bca5.png" density="mdpi" />
-        <icon src="res/android/icon/08fe2fb6cb92bb6562f9933483e2a23f.png" density="hdpi" />
-        <icon src="res/android/icon/bb85c66d9768259f3044de2ee0e49d7e.png" density="xhdpi" />
-        <icon src="res/android/icon/8259361b38c1e76fa850bb237ce47d53.png" density="xxhdpi" />
-        <icon src="res/android/icon/edc3f1396a17ede7983ad9d6d4b274e6.png" density="xxxhdpi" />
+        <icon src="res/android/icon/24f004a9a7726ca0a9b4cd77151e74b6.png" density="ldpi" />
+        <icon src="res/android/icon/5939c8ed15c504562b960d76bbb51688.png" density="mdpi" />
+        <icon src="res/android/icon/8540141e5d1aa882eda42e9155856bc0.png" density="hdpi" />
+        <icon src="res/android/icon/6772ea7ce4047f72ec81aff855655af2.png" density="xhdpi" />
+        <icon src="res/android/icon/e170eae6445ca90f8a1477798bc7a48f.png" density="xxhdpi" />
+        <icon src="res/android/icon/6cdf9510739637be9d398d1e126e1516.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/09baf23ea95a1f59b443222b1382aadf.png" density="port-hdpi"/>
         <splash src="res/android/screen/d0abfe03e0cd287e41a78030b26d9644.png" density="port-ldpi"/>
